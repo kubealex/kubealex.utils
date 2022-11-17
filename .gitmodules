@@ -1,0 +1,6 @@
+[submodule "roles/ansible-gitea-podman"]
+	path = roles/ansible-gitea-podman
+	url = https://github.com/kubealex/ansible-gitea-podman.git
+[submodule "roles/ansible-minio-podman"]
+	path = roles/ansible-minio-podman
+	url = https://github.com/kubealex/ansible-minio-podman.git
